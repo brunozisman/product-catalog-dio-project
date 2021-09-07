@@ -1,0 +1,13 @@
+spring.redis.host: "localhost"
+spring.redis.port: "6379"
+
+spring.config.import: "optional:configserver:"
+
+spring:
+
+  application:
+    name: shopping-cart
+
+  cloud:
+    config:
+      uri: http://localhost:8888

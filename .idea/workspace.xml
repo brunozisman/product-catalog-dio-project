@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e129d782-e1e9-41b8-b01b-eb762a3d4e6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/product-catalog/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/product-catalog/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/config/ElasticSearchConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/config/ElasticSearchConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-catalog/src/main/java/com/bnz/productcatalog/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-catalog/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/product-catalog/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/product-catalog" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xml7mNAOq6RBsyoXoTE8xlNbaK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Users/GAmer/Desktop/Programação/Java/product-catalog-dio-project/config-server/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config-server/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/Users/GAmer/Desktop/Programação/Java/product-catalog-dio-project/config-server/build.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e129d782-e1e9-41b8-b01b-eb762a3d4e6f" name="Default Changelist" comment="" />
+      <created>1630967979997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630967979997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="237" key="FileChooserDialogImpl" timestamp="1630968139921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="237" key="FileChooserDialogImpl/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968139921" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1630968140976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968140976" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1630968140976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968140976" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1630968140976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968140976" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1630968140976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968140976" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1630968140976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968140976" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1630968140976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968140976" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1630968140976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968140976" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1630968140976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968140976" />
+    <state x="472" y="171" key="SettingsEditor" timestamp="1630968133781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="472" y="171" key="SettingsEditor/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968133781" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1630968129832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-2560.0.2560.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1630968129832" />
+  </component>
+</project>
